@@ -23,15 +23,15 @@ json-server --watch db.json
 
 Test your server by visiting this route in the browser:
 
-[http://localhost:3000/characters](http://localhost:3000/characters)
+[https://flatacuties-backend-tau.vercel.app/characters](https://flatacuties-backend-tau.vercel.app/)
 
 Then, open the `index.html` file on your browser to run the application.
 
 Write your code in the `src/index.js` file. The base URL for your API will be
-[http://localhost:3000](http://localhost:3000).
+[https://flatacuties-backend-tau.vercel.app/characters](https://flatacuties-backend-tau.vercel.app/).
 
 ## Deliverables
-
+o
 As a user, I can:
 
 1. See all characters names in a `div` with the id of `"character-bar"`. Create
